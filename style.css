@@ -83,6 +83,9 @@ li {
   height: 12.5rem;
   border-radius: 50%;
 }
+.logo img:hover {
+  transform: scale(1.05, 1.05);
+}
 
 .content {
   /* border: 0.2rem solid black; */
